@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+
+}
+
+h1 {
+    color: yellow;
+}
+
+#pokemon{
+    text-align: center;
+    width: 1800px;
+    border: 15px solid rgb(247, 239, 11);
+    border-width: 1px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgb(12, 99, 162)
+}
+h3{
+    color: white;
+    
+      
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    
+}
+
+
+
+p,p2{
+    color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#Bulbasaur {
+    width: 1000px;
+    border: 15px solid rgb(247, 239, 11);
+    border-radius: 15px;
+    border-width: 1px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgb(144, 238, 144);
+
+}
+
+#chamander {
+    width: 1000px;
+    border: 15px solid rgb(247, 239, 11);
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgb(255, 161, 119);
+
+}
+
+#squirtle { 
+    width: 1000px;
+    border: 15px solid rgb(247, 239, 11);
+    border-width: 1px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgb(131, 238, 255);
+    display: flex;
+
+}
+
+#example {
+    margin: 0 auto;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    color: white;
+    font-size: larger;
+}
